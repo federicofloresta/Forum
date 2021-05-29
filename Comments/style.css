@@ -1,0 +1,108 @@
+html {
+    background-color: #d3d3d3;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: 100;
+    font-size: 50px;
+}
+
+p {
+    color: green;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large; 
+}
+
+#Horizon {
+     height: 300px;
+    width: 350px;
+    margin: 50px;
+    
+}
+
+#Genshin {
+     height: 300px;
+    width: 350px;
+    margin: 50px;
+}
+
+#Outer {
+    height: 300px;
+    width: 350px;
+    margin: 50px;
+}
+
+#Last {
+    height: 300px;
+    width: 350px;
+    margin: 50px;
+}
+
+#Heat {
+    height: 300px;
+    width: 350px;
+    margin: 50px;
+}
+
+#Skyrim {
+    height: 300px;
+    width: 350px;
+    margin: 50px;
+}
+
+textarea.Dawn {
+    background-color: black;
+    color: yellow;
+    position: relative;
+    bottom: 448px;
+    left: 50px;
+
+}
+
+textarea.Impact {
+    background-color: black;
+    color: red;
+    position: relative;
+    bottom: 448px;
+    left: 153px;
+}
+
+textarea.Worlds {
+    background-color: black;
+    color: lime;
+    position: relative;
+    bottom: 450px;
+    left: 256px;
+}
+
+textarea.Us {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 45px;
+    left: -1002px;
+}
+
+textarea.NFS {
+    background-color: black;
+    color: orange;
+    position: relative;
+    bottom: 90px;
+    left: 503px;
+}
+
+textarea.Elders {
+    background-color: black;
+    color: cyan;
+    position: relative;
+    bottom: 90px;
+    left: 607px;
+}
+
+button.submit {
+    font-size: 25px; 
+}
